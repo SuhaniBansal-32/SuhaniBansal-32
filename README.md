@@ -1,16 +1,16 @@
 
-# Hi there, I'm [Suhani Bansal] 👋
+# Hi there, I'm Suhani Bansal 👋
 
 ## About Me
 
 I'm a passionate developer focused on building innovative solutions and contributing to open-source projects. I love exploring new technologies and solving complex problems through code.
 
-- 🔭 I'm currently working on **[Personal Finance Tracker Project]**
-- 🌱 I'm currently learning **[Data Science, Multithreading and Core Java]**
-- 👯 I'm looking to collaborate on **[Java enterprise level project]**
-- 💬 Ask me about **[How to begin coding as a beginner]**
-- 📫 How to reach me: **[suhanibansal32@gmail.com]**
-- ⚡ Fun fact: **[I believe that I need to learn programming in AI era so that I can make philosophy out of programming concepts!]**
+- 🔭 I'm currently working on **Personal Finance Tracker Project**
+- 🌱 I'm currently learning **Data Science, Multithreading and Core Java**
+- 👯 I'm looking to collaborate on **Java enterprise level project**
+- 💬 Ask me about **How to begin coding as a beginner**
+- 📫 How to reach me: **suhanibansal32@gmail.com**
+- ⚡ Fun fact: **I believe that I need to learn programming in AI era so that I can make philosophy out of programming concepts!**
 
 ## Tech Stack
 
@@ -71,7 +71,7 @@ Brief description of what this project does and the technologies used.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SuhaniBansal-32&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
