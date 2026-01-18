@@ -1,4 +1,4 @@
-
+<!--
 # Hi there, I'm Suhani Bansal 👋
 
 ## About Me
@@ -70,10 +70,10 @@ Brief description of what this project does and the technologies used.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SuhaniBansal-32&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
   💼 Open for collaborations and opportunities
-</div>
+</div> -->
